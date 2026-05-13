@@ -7,5 +7,7 @@ The default prefix is ",". Feel free to change it to your liking. Run the comman
 
 <img width="518" height="429" alt="Preview" src="https://github.com/user-attachments/assets/e6e679fa-e3c7-488c-a424-f08abb53d84d" />
 
+NOTE: USE DISCORD.PY 3.9.6 FOR THE BEST EXPERIENCE
+
 ## 📜 License
 This project is licensed for **Personal Use Only**. Commercial use, redistribution for profit, or selling this interface as a "service" is strictly prohibited. See the `LICENSE` file for full details.
